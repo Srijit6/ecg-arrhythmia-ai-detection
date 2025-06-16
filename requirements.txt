@@ -1,0 +1,27 @@
+# Core data science libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine learning
+scikit-learn==1.4.2
+xgboost==2.0.3
+
+# Deep learning
+tensorflow==2.16.1
+
+# Optional: For dimensionality reduction visualizations
+umap-learn==0.5.5
+
+# Jupyter notebook support (optional but recommended)
+jupyterlab==4.1.5
+notebook==7.2.0
+
+# Progress bars (optional, used during training loops or data prep)
+tqdm==4.66.4
+
+# For reproducibility
+joblib==1.4.2
